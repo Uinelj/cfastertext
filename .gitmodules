@@ -1,3 +1,6 @@
-[submodule "fasttext"]
-	path = fasttext
-	url = https://github.com/messense/fastText.git
+[submodule "fastertext"]
+	path = fasterText
+	url = https://github.com/kpu/fasterText.git
+[submodule "fasterText"]
+	path = fasterText
+	url = https://github.com/kpu/fasterText
